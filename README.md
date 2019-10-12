@@ -26,10 +26,11 @@ The contribution to the mission can be achieve in every way you can imagine, by 
 - Open Members Profiles
 - API Access to the all above + more
 
-** Financial Security Values **
+**Financial Security Values**
 
 - Buyers believe in prepaid wholesale (no minimum)
 - Buyers believe in strict vetting process and willing to go thru verification process 
 - Sellers get paid instantly upon request
 - Sellers believe that mixing sold routes quality is not profitable in the long term. 
 - Members believe in utilizing Blockchain for decentralized backup of prepaid funds values
+- Sellers believe in publishing selling rates publicly to other community members. 
