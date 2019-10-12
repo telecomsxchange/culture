@@ -13,3 +13,15 @@ For Voice, SMS and Virtual Phone Numbers.
 
 TCXC members believe in community work, open collaboration and then network effect. Many members refer others (Thank you) to join the community. This is a massive contribution to creating the big network effect. 
 The contribution to the mission can be achieve in every way you can imagine, by signing up, using the service, sharing and referring, sending traffic of any volume (1-x), submitting ideas, contributing code on github
+
+
+**Transparency Values**
+
+- Revealed Buyer & Seller names
+- Direct messaging between members for better support
+- Open Rating & Reviews
+- Revealed pricing per code / seller with no commission 
+- Open Quality Metrics per route (ASR, ACD, PDD, Message Delivery ..)
+- Open Market View 
+- Open Members Profiles
+- API Access to the all above + more
