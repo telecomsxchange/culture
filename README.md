@@ -15,8 +15,9 @@ For Voice, SMS and Virtual Phone Numbers.
 
 **Community Work**
 
-TCXC members believe in community work, open collaboration and then network effect. Many members refer others (Thank you) to join the community. This is a massive contribution to creating the big network effect. 
+TCXC members believe in community work, open collaboration and the network effect. Many members refer others (Thank you) to join the community. This is a massive contribution to creating the big network effect. 
 The contribution to the mission can be achieve in every way you can imagine, by signing up, using the service, sharing and referring, sending traffic of any volume (1-x), submitting ideas, contributing code on github
+
 
 
 **Transparency Values**
@@ -35,6 +36,6 @@ The contribution to the mission can be achieve in every way you can imagine, by 
 - Buyers believe in prepaid wholesale (no minimum)
 - Buyers believe in strict vetting process and willing to go thru verification process 
 - Sellers get paid instantly upon request
-- Sellers believe that mixing sold routes quality is not profitable in the long term. 
+- Sellers believe that mixing sold routes quality is not profitable in the long term
 - Members believe in utilizing Blockchain for decentralized backup of prepaid funds values
-- Sellers believe in publishing selling rates publicly to other community members. 
+- Sellers believe in publishing selling rates publicly to other community members
