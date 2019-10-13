@@ -1,4 +1,4 @@
-# TelecomsXChange Culture (BETA) Open for comments
+# TelecomsXChange Culture
 
 TelecomsXChange makes it simple and easy for any business to interconnect, utilize and pay for wholesale telecommunication services of any scale in seconds using programmable and none programmable interfaces. 
 
