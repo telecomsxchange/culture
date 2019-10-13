@@ -6,6 +6,10 @@ TelecomsXChange makes it simple and easy for any business to interconnect, utili
 
 **Mission**
 
+
+We believe that we are on the face of the earth to make great things. We are constantly focusing on innovating. We believe in the simple not the complex. We believe that we need to make telecom wholesale data (prices, performance metrics) commission-free, transparent and accessible via programmable and none programmable interfaces, and carrier connectivity easy and intuitive for communication service providers (CSPs) of any size. We believe in deep collaboration of our CSPs to create a risk-free digital exchange platform for all communication services so that we can all laser focus on use case innovation that will improve humans lives instead of last mile carrier connectivity. We believe that no single carrier is perfect for every destination, buyers should have the freedom to switch and choose carriers that can provide best connection quality. We believe that buyers and sellers should have direct communication to negotiators or solve problems without any restrictions.
+
+
 TelecomsXChange members (buyers and sellers) deeply believe in open information and transparency when interconnecting and exchanging telecom digital services, platform members deeply believe that they are a contributor to creating the world’s largest OPEN,commission-free & fraud free telecom wholesale exchange. 
 For Voice, SMS and Virtual Phone Numbers. 
 
